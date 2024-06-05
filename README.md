@@ -4,4 +4,4 @@ This repository contains resources and documentation for Selective Harmonic Elim
 
 ## PDF Document
 
-You can view the PDF document [here](https://github.com/AlyMustafa/Selective-Harmonic-Elimination/blob/master/Selective%20Harmonic%20Elimination.pdf).
+![Selective Harmonic Elimination](https://github.com/AlyMustafa/Selective-Harmonic-Elimination/raw/master/Selective%20Harmonic%20Elimination.pdf)
